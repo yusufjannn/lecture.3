@@ -19,4 +19,4 @@
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--UU8VOh_2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ifkb2aeukp0mt18vcc1o.gif)
 # This is how we use Var variable!
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--x2Wo3xPj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fdlxry61nk5azuhpiig4.gif)
-# Goodbye This what our third lecture!!!
+# Goodbye This was our third lecture!!!
